@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "serverless_auto_test": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7114",
+      "launchBrowser": false
+    }
+  }
+}
